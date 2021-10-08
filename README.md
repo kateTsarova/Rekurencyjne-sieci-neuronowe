@@ -8,3 +8,4 @@ Opis projektu jest zamieszczony w pliku _raport.pdf_.
 
 Wyniki działania sieci można zaobserwować poniżej:
 
+![](output.png)
